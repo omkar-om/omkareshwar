@@ -1,4 +1,5 @@
-samosa
+samo
 total 10
 120
 hi
+boy
